@@ -1,0 +1,3 @@
+# Python dependencies, one per line.
+ddddocr
+requests==2.34.2
