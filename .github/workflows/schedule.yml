@@ -3,7 +3,7 @@ name: Run 2nr-extender Schedule
 on:
   schedule:
     # Runs every day at midnight UTC. Adjust the cron syntax as needed.
-    - cron: '0 0 * * *'
+        - cron: '25 2 * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
