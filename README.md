@@ -1,4 +1,4 @@
-📱 2nr Extender
+📱2nr Extender
 
 A script designed to automate and extend 2nr service actions seamlessly.
 
@@ -10,8 +10,13 @@ A script designed to automate and extend 2nr service actions seamlessly.
 ## Quick Setup
 
 1. Open `run.sh` in the main directory.
-2. Replace the placeholder number with **6900xxxxxxx** (it's my 2nr number rn in the code)
-3. Save the file and execute your script!
+2. Replace the placeholder number with **6900xxxxxxx** in `run.sh` (it's my 2nr number rn in the code)
+3. Save the file and execute `run.sh` 
+
+OR
+
+1. Open cmd in main directory
+2. write "python main.python 48 (YOUR NUMBER HERE)"
 
 ---
 
